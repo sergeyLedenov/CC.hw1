@@ -11,8 +11,6 @@ function Male () {
     } else {
         male = "No";
     }
-    alert(male)
-    alert(female);
 }
 
 function Female () {
@@ -21,8 +19,6 @@ function Female () {
     } else {
         female = "No";
     }
-    alert(male)
-    alert(female);
 }
 
 function Telephone () {
